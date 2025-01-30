@@ -2,7 +2,7 @@ Open VS Code in Churroform_project
 
 in Terminal type: 
 
-                - enter Churroform_project folder
+                - enter Churroform_project folder (cd Churroform_project)
 
                 - terraform init
 
